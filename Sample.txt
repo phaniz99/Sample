@@ -1,0 +1,5 @@
+Local Repository To Remote Repository
+
+Local: C:\Users\Goutham\Android-World
+
+Rmote: https://github.com/phaniz99/Sample
